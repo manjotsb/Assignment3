@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Serialization;
 
-namespace Assignment3.Tests
+namespace Assignment3.Utility
 {
     public static class SerializationHelper
     {
